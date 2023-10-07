@@ -1,19 +1,19 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
+  homepage: 'https://pe9h.github.io/',
   title: 'JS.',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
-  role: 'Front End Engineer',
+  name: 'John',
+  role: 'Full Time Programmer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
-  resume: 'https://example.com',
+    'Hello! I am 18 years old. I have 2 1/2 years of experience in Luau, and a couple weeks of experience in GDScript. I primarily use Roblox, but can easily adapt to other game engines!',
+  //resume: 'https://example.com',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    github: 'https://github.com/pe9h',
+    twitter: 'https://twitter.com/ownxer'
   },
 }
 
@@ -21,51 +21,41 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Tree Harvesting Game',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Just a little project I worked on in April, 2023. Was primarily used to improve my Lua knowledge!',
+    stack: ['Lua'],
+    //sourceCode: 'https://github.com',
+    livePreview: 'https://youtu.be/l4mAv4y5U3A',
   },
   {
-    name: 'Project 2',
+    name: 'Wizard Storm Card Game',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Unfinished collectible card game, primarily inspired by Hearthstone.',
+    stack: ['Lua'],
+   // sourceCode: 'https://github.com',
+    livePreview: 'https://youtu.be/LNRxsaduxaU',
   },
   {
-    name: 'Project 3',
+    name: 'Roguelite/Dungeon Crawler',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'I decided to mash a roguelite and a dungeon crawler together, and got this result. it isnt finished, but it has the basis for a full game.',
+    stack: ['Lua'],
+    //sourceCode: 'https://github.com',
+    livePreview: 'https://youtu.be/F93cuCUOsu0',
   },
 ]
 
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
-  'HTML',
-  'CSS',
-  'JavaScript',
-  'TypeScript',
-  'React',
-  'Redux',
-  'SASS',
-  'Material UI',
-  'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
+  'Luau',
+  'GDScript',
 ]
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+ // email: 'johnsmith@mail.com',
 }
 
 export { header, about, projects, skills, contact }
