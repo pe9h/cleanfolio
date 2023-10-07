@@ -26,7 +26,7 @@ const projects = [
       'Just a little project I worked on in April, 2023. Was primarily used to improve my Lua knowledge!',
     stack: ['Lua'],
     sourceCode: '',
-    livePreview: 'https://youtu.be/l4mAv4y5U3A',
+    livePreview: 'https://www.youtube.com/watch?v=l4mAv4y5U3A',
   },
   {
     name: 'Wizard Storm Card Game',
@@ -34,7 +34,7 @@ const projects = [
       'Unfinished collectible card game, primarily inspired by Hearthstone.',
     stack: ['Lua'],
     sourceCode: '',
-    livePreview: 'https://youtu.be/LNRxsaduxaU',
+    livePreview: 'https://www.youtube.com/watch?v=LNRxsaduxaU',
   },
   {
     name: 'Roguelite/Dungeon Crawler',
@@ -42,7 +42,7 @@ const projects = [
       'I decided to mash a roguelite and a dungeon crawler together, and got this result. it isnt finished, but it has the basis for a full game.',
     stack: ['Lua'],
     sourceCode: '',
-    livePreview: 'https://youtu.be/F93cuCUOsu0',
+    livePreview: 'https://www.youtube.com/watch?v=F93cuCUOsu0',
   },
 ]
 
