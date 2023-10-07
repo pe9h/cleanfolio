@@ -10,7 +10,7 @@ const about = {
   role: 'Full Time Programmer',
   description:
     'Hello! I am 18 years old. I have 2 1/2 years of experience in Luau, and a couple weeks of experience in GDScript. I primarily use Roblox, but can easily adapt to other game engines!',
-  //resume: 'https://example.com',
+  resume: '',
   social: {
     github: 'https://github.com/pe9h',
     twitter: 'https://twitter.com/ownxer'
@@ -25,7 +25,7 @@ const projects = [
     description:
       'Just a little project I worked on in April, 2023. Was primarily used to improve my Lua knowledge!',
     stack: ['Lua'],
-    //sourceCode: 'https://github.com',
+    sourceCode: '',
     livePreview: 'https://youtu.be/l4mAv4y5U3A',
   },
   {
@@ -33,7 +33,7 @@ const projects = [
     description:
       'Unfinished collectible card game, primarily inspired by Hearthstone.',
     stack: ['Lua'],
-   // sourceCode: 'https://github.com',
+    sourceCode: '',
     livePreview: 'https://youtu.be/LNRxsaduxaU',
   },
   {
@@ -41,7 +41,7 @@ const projects = [
     description:
       'I decided to mash a roguelite and a dungeon crawler together, and got this result. it isnt finished, but it has the basis for a full game.',
     stack: ['Lua'],
-    //sourceCode: 'https://github.com',
+    sourceCode: '',
     livePreview: 'https://youtu.be/F93cuCUOsu0',
   },
 ]
