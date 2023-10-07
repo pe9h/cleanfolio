@@ -6,7 +6,7 @@ const header = {
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John',
+  name: 'Avery',
   role: 'Full Time Programmer',
   description:
     'Hello! I am 18 years old. I have 2 1/2 years of experience in Luau, and a couple weeks of experience in GDScript. I primarily use Roblox, but can easily adapt to other game engines!',
